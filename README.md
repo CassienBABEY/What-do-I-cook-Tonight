@@ -1,7 +1,7 @@
-# <center><u><b>Recipe App</b></u></center>
+#  <center><u><b>Recipe App</b></u></center>
 
 <center>
-<img src="recipe.png" alt="Description de l'image">
+<img src="recipe.jpeg" alt="Recipe">
 </center>
 
 This is a recipe application that scrapes recipes from a fictional cooking website, processes the data, and provides a user interface for searching and exploring recipes.
